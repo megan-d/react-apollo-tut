@@ -1,1 +1,1 @@
-This is a basic react application to learn Apollo using tutorial
+This is a basic React application to learn Apollo using tutorial
