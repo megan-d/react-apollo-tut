@@ -1,0 +1,27 @@
+{
+  "name": "react-apollo-app",
+  "version": "1.0.0",
+  "description": "This is a basic react application to learn Apollo using tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megan-d/react-apollo-tut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megan-d/react-apollo-tut/issues"
+  },
+  "homepage": "https://github.com/megan-d/react-apollo-tut#readme",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "apollo-boost": "^0.4.9",
+    "apollo-server": "^2.21.1",
+    "axios": "^0.21.1",
+    "graphql": "^15.5.0",
+    "nodemon": "^2.0.7"
+  }
+}
